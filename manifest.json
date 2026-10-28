@@ -1,0 +1,8 @@
+{
+  "version": "1.3.2",
+  "url": "https://github.com/Coredidit/tiktokbot-updates/releases/download/v1.3.2/TikTokBot-update.zip",
+  "sha256": "6108e995e642283b074245413fc083a16ef717fe7dad738440465898da5bcef2",
+  "size": 71649115,
+  "signature": "--iqhIaJQIZ_mYkzxpJjbwwhLYppZiXHfd02eYM2ZBZgRDZzFW0eRWe7NBiqq26T31q7JBjxL3Y6nbbcPAYKCA",
+  "notes": "Photo carousel posting, permanent data folder, post-skipped, account picker, and upload reliability fixes."
+}
