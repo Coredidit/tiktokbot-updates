@@ -1,8 +1,1 @@
-{
-  "version": "1.4.0",
-  "url": "https://github.com/Coredidit/tiktokbot-updates/releases/download/v1.4.0/Core-update.zip",
-  "sha256": "a214b3669e55ec8d3392a2ae0ad2496422d3050498c593e88136c1a4f6803b3a",
-  "size": 84775905,
-  "signature": "0QcgEgj3mbHNJn6cQZ2l4bujBTgP5bhEKBHtDOJqf6rVP4osSEDPBxVVGETHvrHOMuLXXoNnsAhBCqiJBxN9AA",
-  "notes": "Core v1.4.0: online license activation, signed leases, device limits, live version reporting, owner dashboard controls and renewal extensions."
-}
+{"version":"1.4.0","url":"https://github.com/Coredidit/tiktokbot-updates/releases/download/v1.4.0/Core-update.zip","sha256":"a214b3669e55ec8d3392a2ae0ad2496422d3050498c593e88136c1a4f6803b3a","size":84775905,"signature":"0QcgEgj3mbHNJn6cQZ2l4bujBTgP5bhEKBHtDOJqf6rVP4osSEDPBxVVGETHvrHOMuLXXoNnsAhBCqiJBxN9AA","notes":"Core v1.4.0: online license checks at startup and while running, bounded network-outage grace, account ownership checks, device activation limits, improved Windows cookie export and browser runtime compatibility. Keep your existing key and local account data. Supported v1.3.2+ installations can update on restart while the current local license is valid; older or expired installs may need the full Windows ZIP."}
